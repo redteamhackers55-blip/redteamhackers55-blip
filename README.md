@@ -19,6 +19,33 @@ My mission is to evolve into an *advanced-level cyber security professional*
 with strong *ethical discipline and legal boundaries*.
 
 ---
+## 🌐 CONTACT & PROFESSIONAL PRESENCE
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Professional+Contact+Channels;Collaboration+%7C+Research+%7C+Cyber+Security" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/alphamen01-hack">
+    <img src="https://img.shields.io/badge/GitHub-Primary-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/dark_cyber.in">
+    <img src="https://img.shields.io/badge/Instagram-Professional-00E5FF?style=for-the-badge&logo=instagram&logoColor=black"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/17012645961">
+    <img src="https://img.shields.io/badge/WhatsApp-Direct-39FF14?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    🔐 Professional accounts only · Ethical collaboration · Research & security discussions
+  </sub>
+</p>
+
+
 
 ## ⚔️ CORE CYBER SECURITY DOMAINS
 
