@@ -126,7 +126,7 @@ with strong *ethical discipline and legal boundaries*.
   <img src="https://img.shields.io/badge/Reverse%20Engineering-00E5FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Privilege%20Escalation-39FF14?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Evasion%20Concepts-00E5FF?style=for-the-badge"/>
-</p>
+
 
 ---
 
@@ -137,9 +137,11 @@ with strong *ethical discipline and legal boundaries*.
 + Ethical Hacking Methodology
 + Offensive Security (Advanced)
 + Malware & Reverse Engineering
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00E5FF&height=160"/>
-</p>
 + Red Team vs Blue Team Thinking
 + Digital Forensics Mastery
+
+---
+
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00E5FF&height=160"/>
+</p>
