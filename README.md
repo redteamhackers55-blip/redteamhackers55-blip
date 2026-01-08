@@ -1,22 +1,26 @@
-<!-- ===== HERO ANIMATION ===== -->
+
+<!-- ===== NEON HERO ANIMATION ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00FFE0&center=true&vCenter=true&width=950&lines=Santhosh+Kutty;Cyber+Security+Researcher+%26+Ethical+Hacker;Digital+Forensics+%7C+Offensive+Security;Dark+Web+Intelligence+Analyst;Learning+Like+an+Attacker+Defending+Like+a+Professional" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=900&color=39FF14&center=true&vCenter=true&width=950&lines=Santhosh+Kutty;Cyber+Security+Researcher+%26+Ethical+Hacker;Digital+Forensics+%7C+Offensive+Security;Dark+Web+Intelligence+Analyst;Think+Green+Hack+Clean+Defend+Smart" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00E5FF&height=160"/>
 </p>
 
 ---
 
-## 🧠 WHO I AM (REALITY)
+## 🧠 WHO I AM
 
 I am a *Cyber Security Researcher and Ethical Hacker* focused on  
-*offensive security concepts, digital forensics, cyber crime analysis, and threat intelligence*.
+*offensive security, digital forensics, cyber crime analysis, and threat intelligence*.
 
 I don’t just use tools —  
-I study *how attacks work internally*,  
-*why defenses fail*, and  
-*how evidence exposes attackers*.
+I analyze *attack logic, **defensive failure points*, and  
+*digital evidence that exposes the truth*.
 
-My goal is to reach *advanced-level offensive & defensive mastery*  
-with *strong ethics and legal discipline*.
+My mission is to evolve into an *advanced-level cyber security professional*  
+with strong *ethical discipline and legal boundaries*.
 
 ---
 
@@ -29,184 +33,113 @@ with *strong ethics and legal discipline*.
 - Web, network & system attack methodologies  
 - Post-exploitation & persistence understanding  
 
-> Focused on *labs, simulations, and controlled environments only*
-
 ---
 
 ### 🛡️ Cyber Security (Defensive)
-- Secure system design & hardening  
+- Secure system architecture  
 - Threat modeling & risk analysis  
 - Detection & response concepts  
-- Security policy & compliance awareness  
+- Security hardening strategies  
 
 ---
 
 ### 🔍 Digital Forensics
-- Evidence acquisition & integrity  
+- Evidence acquisition & integrity preservation  
 - File system & artifact analysis  
-- Log & timeline reconstruction  
-- Incident forensics methodology  
+- Timeline & log reconstruction  
+- Incident forensics workflow  
 
 ---
 
 ### 🌑 Dark Web & Cyber Crime Intelligence
-- Underground forum & marketplace analysis  
-- Threat actor behavior profiling  
-- Illicit ecosystem research  
+- Hidden service behavior analysis  
+- Threat actor profiling  
+- Underground ecosystem research  
 - Intelligence classification  
 
 ---
 
-## 🧪 TECH STACK & ENVIRONMENT
+## 🧪 TECH STACK (NEON)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,kali,bash,git,github,html,css,js,sqlite&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=python,linux,kali,bash,git,github,html,css,js,sqlite&perline=10" />
 </p>
 
-I primarily operate inside *Linux & Kali Linux*,  
-automate workflows using *Python*,  
-and document findings like a *professional investigator*.
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-39FF14?style=for-the-badge&logo=kalilinux&logoColor=black"/>
+</p>
 
 ---
 
-## 🛠️ CYBER SECURITY PROJECTS (NOT ONLY DFT)
+## 🛠️ CYBER SECURITY PROJECTS
 
 ### 🔍 Digital Forensics Toolkit (DFT)
-A desktop forensic toolkit for *academic & research investigations*.
-
+- Desktop-based forensic investigation toolkit  
 - Structured forensic workflow  
-- PySide6 GUI  
 - Evidence integrity focused  
-- Case-based analysis approach  
+- PySide6 GUI  
 
 ---
 
 ### 🌐 Vulnerability Assessment Framework
-A project focused on *systematic vulnerability discovery*.
-
 - Recon automation  
-- Scan result correlation  
-- Manual verification logic  
-- Risk classification  
+- Scan correlation logic  
+- Manual validation approach  
+- Risk-based reporting  
 
 ---
 
 ### 🕷️ Web Application Security Lab
-A controlled lab environment to *study real-world web attacks*.
-
-- SQL Injection (logic-level understanding)  
-- XSS & CSRF behavior  
-- Authentication & session flaws  
+- SQL Injection logic analysis  
+- XSS & CSRF behavior study  
+- Authentication flaws  
 - Secure coding countermeasures  
 
 ---
 
-### 🖥️ Network Security & Attacks Lab
-Hands-on research project to understand *network-level attacks*.
-
-- Packet analysis  
-- MITM concepts  
-- Network misconfiguration exploitation  
+### 🖥️ Network Security & Attack Lab
+- Packet & traffic analysis  
+- MITM attack concepts  
+- Misconfiguration exploitation  
 - Defensive monitoring  
 
 ---
 
 ### 🧬 Malware Behavior Analysis (LAB)
-A *safe lab-based research project*.
-
-- Static & dynamic behavior analysis  
-- Process, registry & memory observation  
+- Static & dynamic analysis  
+- Process & memory observation  
 - IOC extraction  
 - Detection logic understanding  
 
 ---
 
 ### 🌑 Dark Web Intelligence Research
-A cyber crime intelligence research project.
-
-- Hidden service behavior study  
-- Threat actor analysis  
-- Marketplace & forum structure  
+- Marketplace & forum analysis  
+- Threat actor behavior  
 - Intelligence reporting  
+- Cyber crime research  
 
 ---
 
-## 🧠 ADVANCED HACKER SKILLS (WHAT I’M BUILDING)
-
-### 🔥 Technical Growth
-- Exploit development concepts  
-- Reverse engineering basics  
-- Memory & binary analysis  
-- Advanced privilege escalation  
-- Evasion & detection bypass concepts  
-
----
-
-### 🧠 Hacker Mindset
-- Think in *attack chains*, not tools  
-- Understand *why exploits work*  
-- Predict defender response  
-- Learn from failures  
-
----
-
-### 🧾 Professional Discipline
-- Documentation & reporting  
-- Legal & ethical boundaries  
-- Responsible disclosure  
-- Evidence handling  
-
----
-
-## 🧭 LEARNING ROADMAP (ADVANCED LEVEL)
-
-- ✔ Fundamentals (Networking, OS, Web)  
-- ✔ Ethical hacking methodology  
-- 🔄 Advanced exploitation  
-- 🔄 Malware & RE  
-- 🔄 Red Team vs Blue Team thinking  
-- 🎯 Cyber crime & forensic mastery  
-
----
-
-## 📊 PROOF OF WORK
+## 🧠 ADVANCED HACKER SKILLS (IN PROGRESS)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Exploit%20Development-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Privilege%20Escalation-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Evasion%20Concepts-00E5FF?style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚖️ ETHICS & RESPONSIBILITY
+## 🧭 LEARNING ROADMAP
 
-> Skills without ethics create criminals.  
-> Ethics without skills create weakness.  
-> I choose *balance*.
-
-All projects are *legal, ethical, educational, and research-focused*.
-
----
-
-## 🌐 CONNECT
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Main-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://instagram.com/YOUR_ID">
-    <img src="https://img.shields.io/badge/Instagram-Professional-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://wa.me/91XXXXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-Direct-25D366?style=for-the-badge&logo=whatsapp"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
-</p>
+```diff
++ Fundamentals (Networking, OS, Web)
++ Ethical Hacking Methodology
++ Offensive Security (Advanced)
++ Malware & Reverse Engineering
++ Red Team vs Blue Team Thinking
++ Digital Forensics Mastery
