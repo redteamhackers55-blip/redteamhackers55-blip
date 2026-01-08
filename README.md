@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=900&color=39FF14&center=true&vCenter=true&width=950&lines=Santhosh+Kutty;Cyber+Security+Researcher+%26+Ethical+Hacker;Digital+Forensics+%7C+Offensive+Security;Dark+Web+Intelligence+Analyst;Think+Green+Hack+Clean+Defend+Smart" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00E5FF&height=160"/>
-</p>
-
 ---
 
 ## 🧠 WHO I AM
@@ -141,5 +137,9 @@ with strong *ethical discipline and legal boundaries*.
 + Ethical Hacking Methodology
 + Offensive Security (Advanced)
 + Malware & Reverse Engineering
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00E5FF&height=160"/>
+</p>
 + Red Team vs Blue Team Thinking
 + Digital Forensics Mastery
